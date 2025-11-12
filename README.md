@@ -8,7 +8,7 @@ This project implements a classical chess engine written in Python. It evaluates
 
 The engine includes:
 
-- A static evaluation function combining material balance, piece–square tables (PSTs), and heuristic bonuses/penalties
+- A static evaluation function combining material balance, piece-square tables (PSTs), and heuristic bonuses/penalties
 - A minimax search algorithm with alpha-beta pruning, quiescence search, and transposition table caching
 
 It supports command-line play, self-play with PGN export, and UCI (Universal Chess Interface) mode for chess GUIs and engine-to-engine communication.
