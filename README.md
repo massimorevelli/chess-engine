@@ -20,8 +20,8 @@ See the [technical report](technical_report.pdf) for a full explanation of the e
 The engine’s performance was evaluated both in matches against Stockfish (a leading open-source chess engine) and through self-play analysis.  See the [testing report](testing_report.pdf) for detailed methodology, metrics, and results.
 
 <p  align="center">
-<img  src="testing_data/images/01.png"  alt="Sample checkmate 1"  width="48%">
-<img  src="testing_data/images/02.png"  alt="Sample checkmate 2"  width="48%">
+<img  src="testing_data/images/img1.png"  alt="Sample checkmate 1"  width="48%">
+<img  src="testing_data/images/img2.png"  alt="Sample checkmate 2"  width="48%">
 </p>
 
 
