@@ -1,0 +1,309 @@
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "1"]
+[White "Stockfish (Elo 1500)"]
+[Black "Max's Engine (Depth 3)"]
+[Result "0-1"]
+[Time "14:24:11"]
+
+1. e3 Nf6 2. c4 Nc6 3. d4 e5 4. d5 Bb4+ 5. Nc3 Bxc3+ 6. bxc3 Ne7 7. Ba3 O-O 8. Ne2 d6 9. h4 Bf5 10. f3 Re8 11. h5 e4 12. h6 exf3 13. Ng3 fxg2 14. Bxg2 gxh6 15. Qf3 Qd7 16. Bh3 Bxh3 17. Rd1 Qg4 18. Kf2 Qxf3+ 19. Kxf3 Bg4+ 20. Kf2 Bxd1 21. e4 Bc2 22. Bc5 dxc5 23. Rh4 Ng6 24. Nf5 Nxh4 25. e5 Ne4+ 26. Ke2 Nxf5 27. e6 fxe6 28. dxe6 Rxe6 29. a3 Rae8 30. a4 Bxa4 31. Kf3 Nxc3 32. Kg2 Bb3 33. Kh2 Re1 34. Kg2 Bxc4 35. Kf3 Nd5 36. Kg2 R8e2+ 37. Kf3 Nf6 38. Kf4 Rf2# 0-1
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "2"]
+[White "Max's Engine (Depth 3)"]
+[Black "Stockfish (Elo 1500)"]
+[Result "1/2-1/2"]
+[Time "14:26:33"]
+
+1. Nf3 a6 2. Nc3 d5 3. e4 dxe4 4. Nxe4 e5 5. d4 f5 6. Nc3 exd4 7. Nxd4 Nf6 8. Bd3 Bb4 9. Nxf5 Bxc3+ 10. bxc3 O-O 11. Bc4+ Kh8 12. Qxd8 Rxd8 13. Nd4 c5 14. Nf3 b5 15. Ng5 Rf8 16. Nf7+ Kg8 17. Nh6+ Kh8 18. Nf7+ Kg8 19. Nh6+ Kh8 1/2-1/2
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "3"]
+[White "Stockfish (Elo 1500)"]
+[Black "Max's Engine (Depth 3)"]
+[Result "0-1"]
+[Time "14:27:11"]
+
+1. Nf3 Nf6 2. g3 Nc6 3. d4 d5 4. Bg5 h6 5. Be3 Ng4 6. Bd2 e5 7. Nxe5 Ncxe5 8. dxe5 Bc5 9. e3 Nxe5 10. h3 Be6 11. f4 Nc4 12. Qf3 Nxd2 13. Kxd2 O-O 14. a4 d4 15. Kc1 dxe3 16. Rh2 Bd5 17. Qh5 Bd4 18. Bd3 Qf6 19. Nc3 Bxc3 20. Rh1 Bxb2+ 21. Kd1 Bxh1 22. g4 Bxa1 23. Kc1 Qxf4 24. Kb1 Be5 25. g5 Bf3 26. gxh6 Qb4+ 27. Kc1 Qb2# 0-1
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "4"]
+[White "Max's Engine (Depth 3)"]
+[Black "Stockfish (Elo 1500)"]
+[Result "1-0"]
+[Time "14:28:36"]
+
+1. Nf3 c6 2. Nc3 d5 3. e4 Bg4 4. h3 Bc8 5. exd5 Nf6 6. dxc6 Nxc6 7. d4 g6 8. Bc4 Na5 9. Bb5+ Bd7 10. Bxd7+ Nxd7 11. O-O Rc8 12. Ne5 Nxe5 13. dxe5 Qxd1 14. Rxd1 h6 15. Bf4 Bg7 16. Rd5 Nc4 17. Rb5 b6 18. Ne4 Kd7 19. Bg3 Rhd8 20. Rd1+ Kc6 21. Rxd8 Rxd8 22. a4 Rd4 23. f3 a6 24. Rb4 b5 25. axb5+ axb5 26. Kh2 g5 27. b3 f5 28. exf6 Rxe4 29. fxg7 Ne3 30. fxe4 Kc5 31. Rxb5+ Kxb5 32. c4+ Kc6 33. g8=Q Kd7 34. Kg1 g4 35. Bf4 Nf5 36. Qxg4 e5 37. Qxf5+ Kc6 38. Qxe5 Kb6 39. Bxh6 Kb7 40. c5 Kc6 41. Qe7 Kb5 42. Be3 Ka5 43. c6 Ka6 44. Qb7+ Ka5 45. Qb6# 1-0
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "5"]
+[White "Stockfish (Elo 1500)"]
+[Black "Max's Engine (Depth 3)"]
+[Result "1/2-1/2"]
+[Time "14:30:11"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nf3 Nxc3 5. bxc3 Nc6 6. Qe2 Bf5 7. d4 e6 8. Qb5 Qd5 9. Qxd5 exd5 10. Bd3 Bxd3 11. cxd3 Bd6 12. O-O O-O 13. Rd1 Rfe8 14. Bd2 Rad8 15. Nh4 Ne7 16. Nf3 Nf5 17. Rab1 Rb8 18. g4 Ne7 19. Nh4 h6 20. a4 a6 21. h3 b5 22. Kf1 bxa4 23. Nf5 Nxf5 24. gxf5 a3 25. c4 Rxb1 26. Rxb1 dxc4 27. dxc4 Kh8 28. c5 Be7 29. Re1 a2 30. Ra1 Bf6 31. Be3 Rd8 32. Rxa2 Bxd4 33. Rxa6 Be5 34. f4 Bf6 35. Ke2 Kg8 36. Bd2 Bd4 37. Bb4 Rb8 38. Ba5 Rb2+ 39. Kd1 Rb1+ 40. Kd2 Rb2+ 41. Kc1 Ra2 42. c6 Ra1+ 43. Kc2 Ra2+ 44. Kb3 Ra1 45. Kc4 Bf6 46. Kb5 Rb1+ 47. Kc4 Rc1+ 48. Kd5 Rd1+ 49. Ke4 Ra1 50. Ra7 Ra4+ 51. Kd3 Ra2 52. Kc4 Rc2+ 53. Kb4 Rxc6 54. Kb3 Rc5 55. Ra6 Rb5+ 56. Kc4 Rb7 57. Rc6 Bd8 58. Ra6 Bf6 59. Rc6 Bd8 60. Bc3 Be7 61. Be5 Bd8 62. Bd4 Be7 63. f6 gxf6 64. Kd5 Bd6 65. h4 Bxf4 66. Bxf6 Bd6 67. Rc1 Rb5+ 68. Kc6 Rb6+ 69. Kd5 Rb5+ 70. Kd4 c5+ 71. Kc4 Rb4+ 72. Kd5 Rb6 73. h5 Kh7 74. Rf1 Kg8 75. Ra1 Bf8 76. Bc3 Bd6 77. Ke4 Rb8 78. Ra6 Rd8 79. Kf5 Bf8 80. Bf6 Rd5+ 81. Be5 c4 82. Ke4 Rc5 83. Ra8 c3 84. Rxf8+ Kxf8 85. Bd6+ Kg8 86. Bxc5 c2 87. Ba3 c1=Q 88. Bxc1 Kh7 89. Be3 Kg7 90. Bc1 Kh7 91. Kd5 Kg7 92. Bb2+ Kf8 93. Ke5 Kg7 94. Bc3 Kh8 95. Bd2 Kg7 96. Be3 Kh7 97. Bd2 Kg7 98. Kf5 Kh7 99. Be3 Kg7 100. Bd2 Kh7 101. Kg4 Kg7 1/2-1/2
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "6"]
+[White "Max's Engine (Depth 3)"]
+[Black "Stockfish (Elo 1500)"]
+[Result "1-0"]
+[Time "14:32:03"]
+
+1. Nf3 c5 2. Nc3 d6 3. e4 e5 4. Bc4 h6 5. O-O Nc6 6. d3 Nf6 7. Be3 g6 8. Re1 Bg7 9. Qd2 a6 10. Rad1 Bg4 11. Nd5 b5 12. Bb3 a5 13. h3 Bxf3 14. gxf3 a4 15. Nxf6+ Kf8 16. Bd5 Rc8 17. Bxc6 Qxf6 18. Bxb5 Rb8 19. Qa5 a3 20. bxa3 Rxb5 21. Qxb5 d5 22. exd5 Qxf3 23. Qb8+ Ke7 24. Bxc5+ Kd7 25. Qb7+ Kd8 26. d4 Rg8 27. Qb8+ Kd7 28. Qxg8 Qxh3 29. Qxf7+ Kc8 30. Qg8+ Kb7 31. Rb1+ Kc7 32. Qb8+ Kd7 33. Rb7# 1-0
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "7"]
+[White "Stockfish (Elo 1500)"]
+[Black "Max's Engine (Depth 3)"]
+[Result "0-1"]
+[Time "14:35:11"]
+
+1. c4 Nf6 2. g3 Nc6 3. Nc3 d5 4. d3 d4 5. Ne4 Nxe4 6. dxe4 e5 7. Bg2 Be6 8. b3 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Rb1 f5 12. Rc1 fxe4 13. Nh3 Qf6 14. Qg5 h6 15. Qh5 Bxh3 16. Qxh3 Qxf2+ 17. Kd1 d3 18. e3 Qe2# 0-1
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "8"]
+[White "Max's Engine (Depth 3)"]
+[Black "Stockfish (Elo 1500)"]
+[Result "1-0"]
+[Time "14:35:55"]
+
+1. Nf3 e6 2. Nc3 d5 3. e4 d4 4. Nb5 Nf6 5. Nbxd4 Nxe4 6. Bd3 Nf6 7. O-O Bd7 8. Ne5 c5 9. Ndf3 Qc7 10. Re1 Bd6 11. Nc4 O-O 12. Nxd6 h6 13. Ne4 Ng4 14. h3 f5 15. hxg4 fxe4 16. Bxe4 Ba4 17. Bg6 Bc6 18. Rxe6 Bd5 19. Re1 Qd6 20. Bf5 g6 21. Be4 Be6 22. Bxb7 Nc6 23. Bxa8 Rxa8 24. g5 Bg4 25. gxh6 Rf8 26. Qe2 Kh8 27. d3 g5 28. Bxg5 c4 29. dxc4 Rxf3 30. gxf3 Be6 31. Qxe6 Qxe6 32. Rxe6 Nd4 33. Bf6+ Kh7 34. Bxd4 a6 35. Rxa6 Kg8 36. Ra7 Kf8 37. h7 Ke8 38. h8=Q# 1-0
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "9"]
+[White "Stockfish (Elo 1500)"]
+[Black "Max's Engine (Depth 3)"]
+[Result "1-0"]
+[Time "14:37:22"]
+
+1. Nc3 Nf6 2. e3 Nc6 3. a3 e5 4. Nf3 d5 5. d4 e4 6. Ng1 Bd6 7. Bb5 Be6 8. Bxc6+ bxc6 9. h3 Rb8 10. Nge2 O-O 11. Nf4 Bxf4 12. exf4 Qd6 13. b3 c5 14. Be3 cxd4 15. Qxd4 Rb7 16. Qc5 Qxc5 17. Bxc5 Rfb8 18. Bd4 Nd7 19. f5 Bxf5 20. Nxd5 Be6 21. Ne7+ Kh8 22. Be3 Ne5 23. Bf4 Re8 24. Bxe5 Rxe7 25. O-O-O Rd7 26. Rhe1 Rxd1+ 27. Kxd1 Bf5 28. Bf4 Kg8 29. g4 Bg6 30. Kc1 f5 31. Be3 fxg4 32. hxg4 h6 33. b4 Kh8 34. Kd2 Kg8 35. c4 Kh8 36. Kc3 Bf7 37. Bd4 Bg6 38. a4 Kh7 39. b5 Kg8 40. Be3 Bf7 41. a5 Bg6 42. a6 Rb8 43. Bxa7 Ra8 44. Be3 h5 45. Rc1 hxg4 46. Kb4 g3 47. Kc5 gxf2 48. Kc6 Rf8 49. a7 Be8+ 50. Kxc7 Rf7+ 51. Kb6 Rf6+ 52. Kc5 Rf5+ 53. Kb4 f1=Q 54. Rxf1 Rxf1 55. a8=Q Rf8 56. Bc5 e3 57. Bxf8 Kxf8 58. Qf3+ Kg8 59. Qe4 Bh5 60. Qxe3 Bg6 61. Qe6+ Bf7 62. Qe3 Bg6 63. Qe5 Kh8 64. Kc5 Kg8 65. Qe2 Bf5 66. b6 Bc8 67. Qe8+ Kh7 68. Qxc8 g5 69. b7 Kh6 70. Kd6 Kh7 71. Qf5+ Kg7 72. Qe4 Kh6 73. Qe8 g4 74. Ke6 g3 75. b8=Q g2 76. Qf4+ Kg7 77. Qff8+ Kh7 78. Qh8# 1-0
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "10"]
+[White "Max's Engine (Depth 3)"]
+[Black "Stockfish (Elo 1500)"]
+[Result "1-0"]
+[Time "14:39:57"]
+
+1. Nf3 d5 2. Nc3 c5 3. d4 Nc6 4. dxc5 Nf6 5. Nd4 g6 6. Nxc6 bxc6 7. Qd4 Rb8 8. Qa4 Bg7 9. Qxc6+ Nd7 10. Nxd5 Bb7 11. Nc7+ Kf8 12. Qa4 Nxc5 13. Qa5 Ne4 14. f3 Qd1+ 15. Kxd1 Nf6 16. Qxa7 Re8 17. Nxe8 Ne4 18. Nxg7 Nc3+ 19. bxc3 Kxg7 20. Qxb7 g5 21. Qxe7 Rf8 22. Qxg5+ Kh8 23. c4 Ra8 24. Bb2+ f6 25. Bxf6# 1-0
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "11"]
+[White "Stockfish (Elo 1500)"]
+[Black "Max's Engine (Depth 3)"]
+[Result "0-1"]
+[Time "14:40:51"]
+
+1. c3 Nf6 2. d4 Nc6 3. Bg5 h6 4. Bxf6 exf6 5. Nf3 d5 6. Qb3 Na5 7. Qd1 Nc4 8. b3 Nd6 9. e3 Be7 10. Qc2 O-O 11. Be2 Bf5 12. Qb2 Re8 13. Nbd2 Qd7 14. O-O Rad8 15. c4 dxc4 16. Rfc1 cxb3 17. Qxb3 Bg6 18. h3 Rc8 19. Nh4 Bh7 20. a4 Rcd8 21. Qb2 f5 22. Nhf3 Bf6 23. Ne5 Qe7 24. a5 a6 25. Ndc4 Nxc4 26. Bxc4 Bxe5 27. dxe5 c5 28. Qb3 Bg6 29. Rd1 Qc7 30. Rxd8 Rxd8 31. e6 fxe6 32. Rf1 Bf7 33. Bxe6 c4 34. Qb6 Qxb6 35. Bxf7+ Kxf7 36. axb6 Rd3 37. g4 fxg4 38. hxg4 c3 39. Rc1 Kg8 40. e4 a5 41. g5 hxg5 42. Kf1 a4 43. Rc2 a3 44. Ke1 Rh3 45. Ke2 Kh8 46. Ra2 Rh4 47. Kd3 Rh3+ 48. Kc2 Rf3 49. Kd1 Rd3+ 50. Ke2 Rd4 51. Ke3 Rd8 52. Rxa3 Rc8 53. Ra2 c2 54. Ke2 c1=Q 55. Ra1 Qxa1 56. e5 Qxe5+ 57. Kf1 Qb5+ 58. Kg2 Qxb6 59. Kh2 Qxf2+ 60. Kh3 Rf8 61. Kg4 Qh4# 0-1
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "12"]
+[White "Max's Engine (Depth 3)"]
+[Black "Stockfish (Elo 1500)"]
+[Result "1-0"]
+[Time "14:43:09"]
+
+1. Nf3 d5 2. Nc3 d4 3. Nb5 Nc6 4. e3 e5 5. exd4 a6 6. d5 Nce7 7. Nxe5 Nxd5 8. Qh5 g6 9. Qf3 Be6 10. Nd4 Qd6 11. Nc4 Qe7 12. Nxe6 fxe6 13. d4 Bh6 14. Bd3 Bg7 15. Be3 Nxe3 16. fxe3 O-O-O 17. O-O c6 18. Qf4 Nf6 19. Nb6# 1-0
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "13"]
+[White "Stockfish (Elo 1500)"]
+[Black "Max's Engine (Depth 3)"]
+[Result "0-1"]
+[Time "14:44:59"]
+
+1. Nf3 Nf6 2. d4 Nc6 3. d5 Nb4 4. Nc3 e6 5. dxe6 dxe6 6. Bg5 Nbd5 7. Qd3 Bb4 8. Rd1 O-O 9. e4 Nxc3 10. bxc3 Qxd3 11. Rxd3 Bc5 12. Bxf6 gxf6 13. Nd2 e5 14. h4 Be6 15. a4 Rad8 16. Nb3 Bd6 17. Rf3 Kg7 18. Na5 Bc8 19. Bd3 Rh8 20. h5 Rhg8 21. h6+ Kh8 22. Nc4 Rxg2 23. a5 Be7 24. Ne3 Rg5 25. Nd5 Bg4 26. Re3 Bc5 27. Nxf6 Bxe3 28. fxe3 Be6 29. Rf1 Rg6 30. Nd5 c6 31. Nc7 Rxh6 32. Be2 Ba2 33. a6 bxa6 34. Bd3 a5 35. Rf5 Rd7 36. Ne8 Rh1+ 37. Kd2 Rh2+ 38. Kd1 Rb7 39. Be2 Bc4 40. Bxc4 Rb1# 0-1
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "14"]
+[White "Max's Engine (Depth 3)"]
+[Black "Stockfish (Elo 1500)"]
+[Result "1/2-1/2"]
+[Time "14:45:53"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 e6 4. Bg5 Be7 5. Bxf6 Bxf6 6. e4 c6 7. e5 Be7 8. Bd3 c5 9. dxc5 Bd7 10. b4 Nc6 11. Rb1 a5 12. a3 f6 13. Qe2 O-O 14. O-O fxe5 15. Nxe5 g6 16. bxa5 Nxe5 17. Qxe5 Bf6 18. Qe1 Rxa5 19. Rxb7 Bc8 20. c6 Bxb7 21. cxb7 Qb6 22. Nb5 Ra4 23. Qe3 Qxb7 24. Qxe6+ Kh8 25. Nd6 Qa7 26. Qxd5 Bd4 27. Nc4 Bxf2+ 28. Kh1 Qe7 29. Qc6 Rxc4 30. Bxc4 Bc5 31. Rxf8+ Qxf8 32. a4 Qf5 33. a5 Qf2 34. Qe8+ Bf8 35. a6 Qf4 36. h3 h5 37. a7 Qc1+ 38. Kh2 Qf4+ 39. Kh1 Qc1+ 40. Kh2 Qf4+ 1/2-1/2
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "15"]
+[White "Stockfish (Elo 1500)"]
+[Black "Max's Engine (Depth 3)"]
+[Result "0-1"]
+[Time "14:49:54"]
+
+1. e4 Nf6 2. Nc3 d5 3. Nxd5 Nxe4 4. Qh5 e6 5. Ne3 Nc6 6. Bb5 Bc5 7. d3 g6 8. Bxc6+ bxc6 9. Qh6 Bf8 10. Qf4 Nc5 11. Bd2 Bd6 12. Qf3 Bb7 13. Ne2 e5 14. Nc4 O-O 15. Na5 Qb8 16. O-O-O Re8 17. Nc3 Ne6 18. Ne4 Nd4 19. Nf6+ Kh8 20. Qe3 Rd8 21. Qe4 Kg7 22. f4 Kxf6 23. c3 Ne6 24. Nxb7 Qxb7 25. f5 Rab8 26. b4 gxf5 27. Rhf1 Nf4 28. Rxf4 exf4 29. Qe2 c5 30. Re1 cxb4 31. g4 fxg3 32. Qe3 f4 33. Qg1 g2 34. Re2 f3 35. Re4 Qc6 36. Qe3 Kg7 37. Qg5+ Kh8 38. Qf6+ Kg8 39. Qg5+ Kh8 40. Qf6+ Kg8 41. Rg4+ Kf8 42. Bh6+ Ke8 43. c4 Qc5 44. Kd2 g1=Q 45. Re4+ Be7 46. Rxe7+ Qxe7 47. Qh4 Rxd3+ 48. Kxd3 Qe2# 0-1
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "16"]
+[White "Max's Engine (Depth 3)"]
+[Black "Stockfish (Elo 1500)"]
+[Result "1-0"]
+[Time "14:56:10"]
+
+1. Nf3 Nc6 2. Nc3 d6 3. e4 Bg4 4. h3 Bd7 5. d4 Nf6 6. Bf4 h6 7. Bc4 Na5 8. Bd3 e6 9. O-O a6 10. e5 dxe5 11. Nxe5 c5 12. Nxd7 Kxd7 13. dxc5 Ke8 14. Be3 Nc6 15. Qf3 Qc7 16. Rfe1 Be7 17. Rad1 Nb4 18. Bf4 Qc6 19. Qxc6+ bxc6 20. Bd6 Rd8 21. Bf5 Rd7 22. a3 Bxd6 23. Rxd6 Rxd6 24. cxd6 g6 25. Bxg6 Nbd5 26. Nxd5 Nxd5 27. Rxe6+ Kd7 28. Bxf7 Rf8 29. c4 Nb6 30. Rf6 Rxf7 31. Rxf7+ Kxd6 32. Rf4 Kc7 33. Re4 c5 34. Re5 Kd6 35. Re4 Nd7 36. Rh4 Nb8 37. Rxh6+ Kd7 38. Rh5 Ke8 39. Rh8+ Kd7 40. Rxb8 Ke6 41. Rb6+ Ke5 42. Rxa6 Ke4 43. Rd6 Kf5 44. Rc6 Kf4 45. Rxc5 Ke4 46. Rd5 Kf4 47. c5 Ke4 48. Rd7 Ke5 49. c6 Ke6 50. h4 Ke5 51. c7 Kf6 52. c8=Q Ke5 53. h5 Kf6 54. h6 Kg6 55. h7 Kf5 56. h8=Q Kf4 57. Qf6+ Kg4 58. Rh7# 1-0
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "17"]
+[White "Stockfish (Elo 1500)"]
+[Black "Max's Engine (Depth 3)"]
+[Result "0-1"]
+[Time "14:59:15"]
+
+1. f4 Nf6 2. Nc3 Nc6 3. Nf3 d5 4. a3 d4 5. Na4 Qd5 6. b4 e5 7. c4 Qxc4 8. Bb2 exf4 9. e4 d3 10. Ng5 Nxe4 11. Nxf7 Kxf7 12. Rc1 Qe6 13. Qh5+ Kg8 14. Rc2 Ng3+ 15. Kd1 dxc2+ 16. Kxc2 Nxh5 17. Bf6 Nxf6 18. g4 Qe4+ 19. Kc1 Qxh1 20. h3 Qxf1+ 21. Kc2 Qxh3 22. Nb6 Nd4+ 23. Kc1 Qb3 24. g5 cxb6 25. g6 hxg6 26. b5 Bxa3# 0-1
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "18"]
+[White "Max's Engine (Depth 3)"]
+[Black "Stockfish (Elo 1500)"]
+[Result "1-0"]
+[Time "15:01:55"]
+
+1. Nf3 c6 2. Nc3 d5 3. e4 dxe4 4. Nxe4 h6 5. Qe2 Nf6 6. Nxf6+ gxf6 7. d4 h5 8. Bf4 Nd7 9. O-O-O Qa5 10. Kb1 Nb6 11. Qe1 Qf5 12. Bd6 Be6 13. Bg3 Bd5 14. Bd3 Qd7 15. Be4 Rg8 16. Bh7 Rh8 17. Be4 Na4 18. Qe3 Rg8 19. Bh7 Rg7 20. Be4 Nb6 21. Rhe1 Rg4 22. Qd3 Bc4 23. Qe3 Nd5 24. Qd2 e6 25. a3 Qd8 26. Bd3 Bb5 27. c4 h4 28. Nxh4 Bh6 29. Qxh6 Rxg3 30. hxg3 Nc3+ 31. bxc3 Qb6 32. cxb5 c5 33. Qh8+ Ke7 34. Qxa8 e5 35. Qc8 c4 36. Nf5# 1-0
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "19"]
+[White "Stockfish (Elo 1500)"]
+[Black "Max's Engine (Depth 3)"]
+[Result "0-1"]
+[Time "15:04:45"]
+
+1. g3 Nf6 2. d4 Nc6 3. Nf3 d5 4. a4 Qd6 5. Nc3 e5 6. Nb5 Qe7 7. Nxe5 Nxe5 8. dxe5 Qxe5 9. f4 Qe7 10. Qd3 Be6 11. Bg2 Qb4+ 12. Kf1 Qa5 13. c3 O-O-O 14. b4 Qb6 15. f5 Bd7 16. Be3 c5 17. Bf4 cxb4 18. Bf3 b3 19. Be3 b2 20. Bxb6 bxa1=Q+ 21. Kf2 Bxb5 22. Qxb5 Qxc3 23. Ba5 Qc5+ 24. Qxc5+ Bxc5+ 25. e3 d4 26. Kg2 dxe3 27. Rc1 b6 28. h3 Rd4 29. Bc3 Rxa4 30. Bxf6 gxf6 31. Bd5 Rf8 32. Bb3 Rd4 33. h4 e2 34. Be6+ fxe6 35. fxe6 Rd1 36. Kf3 e1=Q 37. g4 Qf2+ 38. Ke4 Rd4# 0-1
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "20"]
+[White "Max's Engine (Depth 3)"]
+[Black "Stockfish (Elo 1500)"]
+[Result "1-0"]
+[Time "15:07:55"]
+
+1. Nf3 a5 2. Nc3 e5 3. Nxe5 d5 4. e4 Nc6 5. Nxc6 bxc6 6. d4 Qe7 7. Bd3 Qd7 8. Be3 Be7 9. exd5 Nf6 10. dxc6 Qe6 11. Qf3 Bb4 12. O-O O-O 13. Rfe1 Qd6 14. Bf4 Bg4 15. Bxd6 Bxf3 16. Bxf8 Nh5 17. Bxg7 Nf4 18. gxf3 Rb8 19. Be5 Nxd3 20. cxd3 Re8 21. Bxc7 f5 22. Rxe8+ Kf7 23. Rae1 f4 24. Bxf4 Ba3 25. c7 Bf8 26. c8=Q Kg8 27. Qe6+ Kg7 28. Rxf8 Kxf8 29. Bh6# 1-0
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "21"]
+[White "Stockfish (Elo 1500)"]
+[Black "Max's Engine (Depth 3)"]
+[Result "0-1"]
+[Time "15:09:02"]
+
+1. d4 Nf6 2. e3 Nc6 3. d5 Nb4 4. Nc3 e6 5. dxe6 dxe6 6. Bd2 Bd6 7. Nf3 O-O 8. a3 Nbd5 9. h3 Qe7 10. Nb5 Bc5 11. Be2 Rd8 12. c4 Nb6 13. b4 Bd6 14. Nc3 c5 15. Qb3 cxb4 16. Nb1 bxa3 17. Nxa3 Ne4 18. Nb5 Nxd2 19. Qc2 Bb4 20. Nxd2 Rxd2 21. Qb1 a6 22. Nc7 Rd7+ 23. Kf1 Rxc7 24. f4 Bc3 25. Bd3 Bxa1 26. Ke2 Nxc4 27. Rc1 Bf6 28. Bxc4 Bd7 29. Qxh7+ Kxh7 30. h4 Bb5 31. Kd2 Rd8+ 32. Ke1 Qa3 33. Be2 Qxe3 34. Rc4 Bxc4 35. g4 Qxe2# 0-1
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "22"]
+[White "Max's Engine (Depth 3)"]
+[Black "Stockfish (Elo 1500)"]
+[Result "0-1"]
+[Time "15:12:09"]
+
+1. Nf3 d5 2. Nc3 e6 3. e4 d4 4. Nb5 Nc6 5. d3 Be7 6. Bf4 Kf8 7. Nxc7 Bb4+ 8. Ke2 e5 9. Bxe5 Bg4 10. Nxa8 Bxf3+ 11. gxf3 Nxe5 12. f4 Nc6 13. c3 Be7 14. cxd4 Nxd4+ 15. Ke3 Nh6 16. Nc7 Nhf5+ 17. exf5 Qxc7 18. Kxd4 Qxf4+ 19. Kc3 Bg5 20. Qb3 Qd2+ 21. Kc4 Qxf2 22. Qxb7 Qc2+ 23. Kd5 g6 24. Ke4 Kg7 25. Rg1 Qf2 26. Bg2 Rd8 27. Qxf7+ Kxf7 28. fxg6+ Ke7 29. Raf1 Rd4+ 30. Ke5 Bf6# 0-1
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "23"]
+[White "Stockfish (Elo 1500)"]
+[Black "Max's Engine (Depth 3)"]
+[Result "0-1"]
+[Time "15:13:07"]
+
+1. d4 Nf6 2. e3 Nc6 3. d5 Nb4 4. Nc3 e6 5. e4 exd5 6. exd5 Bd6 7. Bc4 O-O 8. a3 Na6 9. Nge2 Nc5 10. Qd4 Re8 11. Bg5 h6 12. Bf4 Bxf4 13. Qxf4 g5 14. Qd4 d6 15. O-O-O Bg4 16. h3 Bxe2 17. Bxe2 Nfe4 18. Bf3 Nxc3 19. Rde1 Nb5 20. Qb4 Qd7 21. Rd1 a5 22. Qd2 Ne4 23. Bxe4 Rxe4 24. h4 Rd4 25. Qe2 Rxh4 26. Rhe1 Rd4 27. f3 Rxd1+ 28. Rxd1 Re8 29. Qc4 c6 30. dxc6 Qxc6 31. Qd3 Rc8 32. f4 Qxg2 33. Re1 Qf2 34. Re4 gxf4 35. b4 Nxa3 36. c3 axb4 37. c4 d5 38. Re8+ Rxe8 39. Qe3 fxe3 40. cxd5 Qd2# 0-1
+
+
+
+[Event "Match: Max's Engine vs Stockfish"]
+[Site "Local"]
+[Date "2025.11.08"]
+[Round "24"]
+[White "Max's Engine (Depth 3)"]
+[Black "Stockfish (Elo 1500)"]
+[Result "1-0"]
+[Time "15:15:33"]
+
+1. Nf3 d5 2. Nc3 d4 3. Nb5 e5 4. Nxe5 c6 5. Na3 Ne7 6. e3 dxe3 7. fxe3 Be6 8. d4 Ng6 9. Nxg6 hxg6 10. Nc4 Be7 11. Bd3 b5 12. Ne5 Bd6 13. Qf3 Qc7 14. O-O O-O 15. Bxb5 Bd5 16. e4 Bxe5 17. dxe5 Bxe4 18. Qxe4 cxb5 19. Qxa8 Nc6 20. Qxf8+ Kxf8 21. e6 f5 22. Bf4 Qd8 23. Rad1 Qh4 24. Rd6 Na5 25. Rd5 Nc6 26. Rxb5 Nd4 27. Bd6+ Kg8 28. Rb8+ Kh7 29. e7 Ne2+ 30. Kh1 f4 31. e8=Q Ng3+ 32. Kg1 g5 33. hxg3 f3 34. gxh4 f2+ 35. Rxf2 g6 36. hxg5 Kg7 37. Qh8# 1-0

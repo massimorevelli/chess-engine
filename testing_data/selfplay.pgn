@@ -1,0 +1,30 @@
+[Event "Self-Play"]
+[Site "Local"]
+[Date "2025.11.12"]
+[Round "1"]
+[White "Engine (White)"]
+[Black "Engine (Black)"]
+[Result "1/2-1/2"]
+
+1. Nf3 { eval +10 cp } 1... Nf6 { eval +30 cp } 2. Nc3 { eval +10 cp } 2... Nc6
+{ eval +10 cp } 3. e4 { eval +20 cp } 3... d5 { eval +20 cp } 4. e5
+{ eval +20 cp } 4... Ne4 { eval +13 cp } 5. Bb5 { eval +13 cp } 5... Nxc3
+{ eval +25 cp } 6. dxc3 { eval +33 cp } 6... Bg4 { eval +33 cp } 7. Bxc6+
+{ eval +33 cp } 7... bxc6 { eval +33 cp } 8. O-O { eval +38 cp } 8... Rb8
+{ eval +30 cp } 9. Qd4 { eval +45 cp } 9... Bf5 { eval +45 cp } 10. Qa4
+{ eval +113 cp } 10... e6 { eval +113 cp } 11. Nd4 { eval +153 cp } 11... Qc8
+{ eval +158 cp } 12. Nxc6 { eval +158 cp } 12... Ra8 { eval +158 cp } 13. Nd4+
+{ eval +158 cp } 13... Qd7 { eval +158 cp } 14. Qxd7+ { eval +158 cp } 14...
+Kxd7 { eval +158 cp } 15. Nxf5 { eval +193 cp } 15... exf5 { eval +193 cp } 16.
+Rd1 { eval +193 cp } 16... Ke6 { eval +173 cp } 17. Bf4 { eval +178 cp } 17...
+Re8 { eval +166 cp } 18. Rd3 { eval +166 cp } 18... Rb8 { eval +173 cp } 19.
+Rb1 { eval +178 cp } 19... Be7 { eval +158 cp } 20. Rdd1 { eval +168 cp } 20...
+Rhe8 { eval +151 cp } 21. Rd3 { eval +158 cp } 21... Rh8 { eval +158 cp } 22.
+Rdd1 { eval +168 cp } 22... Rhe8 { eval +151 cp } 23. Rd3 { eval +158 cp }
+23... Rh8 { eval +158 cp } 24. Rdd1 { eval +168 cp } 24... Rhe8
+{ eval +151 cp } 25. Rd3 { eval +158 cp } 25... Rh8 { eval +158 cp } 26. Rdd1
+{ eval +168 cp } 26... Rhe8 { eval +151 cp } 27. Rd3 { eval +158 cp } 27... Rh8
+{ eval +0 cp } 1/2-1/2
+
+
+
