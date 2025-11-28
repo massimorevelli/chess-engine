@@ -225,7 +225,7 @@ def eval_to_play(board):
 # ===== MOVE ORDERING =====
 
 def ordered_moves(board):
-    '''Legal move ordering for search efficiency'''
+    """Legal move ordering for search efficiency"""
 
     # TT caching
 
@@ -325,7 +325,7 @@ def tt_store(board, depth, score, alpha0, beta, best_move):
 # ===== QUIESCENCE SEARCH =====
 
 def qsearch(board, alpha, beta):
-    '''Quiescence search to avoid horizon effect'''
+    """Quiescence search to avoid horizon effect"""
 
     if board.is_checkmate():
         return -99999
@@ -450,7 +450,7 @@ def show_eval(board, depth_white, depth_black):
 # ===== CLI =====
 
 def play_cli(depth_white=3, depth_black=3, engine_plays_white=False):
-    '''Interactive interface'''
+    """Interactive interface"""
 
     board = chess.Board()
     print(board, "\n")
@@ -569,7 +569,7 @@ def self_play_to_pgn(
 # ===== UCI (UNIVERSAL CHESS INTERFACE) LOOP =====
 
 def uci_loop():
-    '''Universal Chess Interface mode'''
+    """Universal Chess Interface mode"""
     
     import sys
     board = chess.Board()
@@ -668,4 +668,5 @@ if __name__ == "__main__":
             "  OUT_DIR (selfplay only, default testing/self_play)\n"
         )
     else:
+
         print("Unknown mode. Use one of: cli, selfplay, uci (or --help)")
