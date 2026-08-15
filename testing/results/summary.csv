@@ -1,0 +1,2 @@
+stockfish_elo,games,wins,draws,losses,score,score_pct,white_wins,white_draws,white_losses,black_wins,black_draws,black_losses,max_moves,avg_depth,avg_main_nodes,avg_qnodes,avg_total_nodes,qnode_share_pct,avg_nps,tt_probes,tt_hits,tt_hit_rate_pct,avg_beta_cutoffs,avg_q_beta_cutoffs,avg_reported_time_s,avg_wall_time_s
+1400,16,11,1,4,11.5,71.875,6,1,1,5,0,3,781,2.8386683738796417,482.81562099871957,4894.198463508323,5377.014084507042,91.0207484412237,2687.6414852752882,377079,67218,17.825972806759328,316.41741357234315,3412.6901408450703,2.000020486555698,2.002199221382842

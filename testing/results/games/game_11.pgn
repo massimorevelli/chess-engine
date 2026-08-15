@@ -1,0 +1,82 @@
+[Event "Max's Engine v1.1 vs Stockfish"]
+[Site "Local"]
+[Date "2026.08.15"]
+[Round "11"]
+[White "Max's Engine v1.1"]
+[Black "Stockfish 18 (UCI_Elo 1400)"]
+[Result "1-0"]
+[Time "14:20:23"]
+[MaxVersion "1.1"]
+[StockfishEngine "Stockfish 18"]
+[StockfishElo "1400"]
+[MoveTimeSeconds "2.0"]
+[PythonChessVersion "1.11.2"]
+[Termination "checkmate"]
+[MaxAvgDepth "2.07"]
+[MaxAvgNodes "4553"]
+[MaxAvgNPS "2276"]
+[MaxTTHitRate "11.31"]
+[MaxAvgSearchTime "2.000"]
+
+1. Nf3
+{ MaxStats: depth=4, score=+10cp, main_nodes=954, qnodes=4681, total_nodes=5635, nps=2817, TT=104/954 (10.9%), cutoffs=725, qcutoffs=2909, time=2.000s }
+1... e6 2. Nc3
+{ MaxStats: depth=3, score=+60cp, main_nodes=748, qnodes=3622, total_nodes=4370, nps=2184, TT=104/748 (13.9%), cutoffs=553, qcutoffs=2454, time=2.000s }
+2... d6 3. e4
+{ MaxStats: depth=3, score=+80cp, main_nodes=596, qnodes=4222, total_nodes=4818, nps=2408, TT=61/596 (10.2%), cutoffs=456, qcutoffs=2604, time=2.000s }
+3... Nf6 4. d4
+{ MaxStats: depth=2, score=+50cp, main_nodes=173, qnodes=4155, total_nodes=4328, nps=2163, TT=30/173 (17.3%), cutoffs=91, qcutoffs=3428, time=2.000s }
+4... a6 5. Bc4
+{ MaxStats: depth=2, score=+65cp, main_nodes=146, qnodes=3774, total_nodes=3920, nps=1959, TT=0/146 (0.0%), cutoffs=105, qcutoffs=2788, time=2.000s }
+5... Be7 6. O-O
+{ MaxStats: depth=2, score=+90cp, main_nodes=105, qnodes=3576, total_nodes=3681, nps=1840, TT=0/105 (0.0%), cutoffs=84, qcutoffs=2519, time=2.000s }
+6... b5 7. Bd3
+{ MaxStats: depth=2, score=+100cp, main_nodes=56, qnodes=3693, total_nodes=3749, nps=1874, TT=0/56 (0.0%), cutoffs=51, qcutoffs=2483, time=2.000s }
+7... Bb7 8. Bf4
+{ MaxStats: depth=1, score=+135cp, main_nodes=27, qnodes=4388, total_nodes=4415, nps=2207, TT=0/27 (0.0%), cutoffs=25, qcutoffs=2764, time=2.000s }
+8... b4 9. e5
+{ MaxStats: depth=2, score=+20cp, main_nodes=44, qnodes=4356, total_nodes=4400, nps=2199, TT=0/44 (0.0%), cutoffs=40, qcutoffs=3088, time=2.000s }
+9... dxe5 10. dxe5
+{ MaxStats: depth=2, score=+19cp, main_nodes=68, qnodes=3885, total_nodes=3953, nps=1975, TT=0/68 (0.0%), cutoffs=64, qcutoffs=2766, time=2.000s }
+10... Nfd7 11. Ne4
+{ MaxStats: depth=2, score=+100cp, main_nodes=46, qnodes=3909, total_nodes=3955, nps=1977, TT=0/46 (0.0%), cutoffs=41, qcutoffs=2590, time=2.000s }
+11... Nc5 12. Nxc5
+{ MaxStats: depth=2, score=+125cp, main_nodes=106, qnodes=3977, total_nodes=4083, nps=2041, TT=0/106 (0.0%), cutoffs=86, qcutoffs=2724, time=2.000s }
+12... Bxc5 13. Re1
+{ MaxStats: depth=1, score=+110cp, main_nodes=34, qnodes=4319, total_nodes=4353, nps=2175, TT=0/34 (0.0%), cutoffs=31, qcutoffs=2730, time=2.000s }
+13... h6 14. Qe2
+{ MaxStats: depth=1, score=+111cp, main_nodes=34, qnodes=3873, total_nodes=3907, nps=1953, TT=0/34 (0.0%), cutoffs=31, qcutoffs=2618, time=2.000s }
+14... Nd7 15. Rad1
+{ MaxStats: depth=2, score=+78cp, main_nodes=45, qnodes=4083, total_nodes=4128, nps=2063, TT=0/45 (0.0%), cutoffs=41, qcutoffs=2754, time=2.000s }
+15... Nb6 16. Bb5+
+{ MaxStats: depth=1, score=+172cp, main_nodes=1, qnodes=4235, total_nodes=4236, nps=2117, TT=0/1 (0.0%), cutoffs=0, qcutoffs=2777, time=2.000s }
+16... Kf8 17. Rxd8+
+{ MaxStats: depth=1, score=+498cp, main_nodes=15, qnodes=4827, total_nodes=4842, nps=2420, TT=0/15 (0.0%), cutoffs=13, qcutoffs=3134, time=2.000s }
+17... Ke7 18. Rxh8
+{ MaxStats: depth=2, score=+1032cp, main_nodes=110, qnodes=4341, total_nodes=4451, nps=2225, TT=0/110 (0.0%), cutoffs=94, qcutoffs=3148, time=2.000s }
+18... Rxh8 19. Bxa6
+{ MaxStats: depth=3, score=+1023cp, main_nodes=230, qnodes=4087, total_nodes=4317, nps=2158, TT=0/230 (0.0%), cutoffs=163, qcutoffs=3319, time=2.000s }
+19... Bd5 20. Qb5
+{ MaxStats: depth=2, score=+1041cp, main_nodes=49, qnodes=4200, total_nodes=4249, nps=2124, TT=1/49 (2.0%), cutoffs=42, qcutoffs=2796, time=2.000s }
+20... Bxf2+ 21. Kxf2
+{ MaxStats: depth=3, score=+1334cp, main_nodes=50, qnodes=3458, total_nodes=3508, nps=1752, TT=0/50 (0.0%), cutoffs=41, qcutoffs=2232, time=2.001s }
+21... Rb8 22. Qxb4+
+{ MaxStats: depth=2, score=+1404cp, main_nodes=103, qnodes=4316, total_nodes=4419, nps=2209, TT=0/103 (0.0%), cutoffs=74, qcutoffs=3219, time=2.000s }
+22... Kd7 23. Bb5+
+{ MaxStats: depth=2, score=+1425cp, main_nodes=112, qnodes=4149, total_nodes=4261, nps=2129, TT=0/112 (0.0%), cutoffs=82, qcutoffs=3210, time=2.000s }
+23... c6 24. Qd6+
+{ MaxStats: depth=1, score=+1457cp, main_nodes=29, qnodes=4727, total_nodes=4756, nps=2377, TT=0/29 (0.0%), cutoffs=27, qcutoffs=3138, time=2.000s }
+24... Ke8 25. Bxc6+
+{ MaxStats: depth=2, score=+1978cp, main_nodes=104, qnodes=4586, total_nodes=4690, nps=2344, TT=0/104 (0.0%), cutoffs=77, qcutoffs=3481, time=2.000s }
+25... Bxc6 26. Qxb8+
+{ MaxStats: depth=2, score=+1978cp, main_nodes=141, qnodes=4870, total_nodes=5011, nps=2505, TT=0/141 (0.0%), cutoffs=94, qcutoffs=4081, time=2.000s }
+26... Kd7 27. Qd6+
+{ MaxStats: depth=2, score=+2036cp, main_nodes=140, qnodes=5580, total_nodes=5720, nps=2859, TT=0/140 (0.0%), cutoffs=91, qcutoffs=4615, time=2.000s }
+27... Ke8 28. Qxc6+
+{ MaxStats: depth=2, score=+2036cp, main_nodes=158, qnodes=4987, total_nodes=5145, nps=2572, TT=3/158 (1.9%), cutoffs=102, qcutoffs=4309, time=2.000s }
+28... Kf8 29. Qxb6
+{ MaxStats: depth=3, score=+2348cp, main_nodes=582, qnodes=5937, total_nodes=6519, nps=3259, TT=1/582 (0.2%), cutoffs=502, qcutoffs=4668, time=2.000s }
+29... h5 30. Qd8#
+{ MaxStats: depth=3, score=+99999cp, main_nodes=1752, qnodes=5019, total_nodes=6771, nps=3384, TT=460/1752 (26.3%), cutoffs=1208, qcutoffs=3682, time=2.000s }
+1-0
+
