@@ -23,7 +23,7 @@ The engine currently includes:
 - **UCI support** for chess GUIs and engine-to-engine communication
 
 For a detailed explanation of the implementation and design choices, see the
-[technical report](technical_report/technical_report.pdf).
+[technical report](technical_report.pdf).
 
 
 ## Testing
